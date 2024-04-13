@@ -15,7 +15,7 @@ Welcome to the MathWiz Mindbender Notebook, your ultimate companion for AI Mathe
 
 ## Table of Contents:
 
-1. [Introduction to AI Mathematical Olympiads](introduction.md) 
+1. [Introduction to AI Mathematical Olympiads](docs/introduction.md) 
 2. Fundamentals of Problem Solving
 3. Advanced Techniques
 4. Practice Problems
