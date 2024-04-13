@@ -20,7 +20,7 @@ Welcome to the MathWiz Mindbender Notebook, your ultimate companion for AI Mathe
 3. [Advanced Techniques](docs/advanced_techniques.md) 
 4. [Practice Problems](docs/practice_problems.md) 
 5. [Solutions and Explanations](docs/solutions_and_explanations.md) 
-6. Glossary
+6. [Glossary](docs/glossary.md) 
 
 ## Get Started:
 
