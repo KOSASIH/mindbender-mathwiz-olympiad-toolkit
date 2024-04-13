@@ -18,7 +18,7 @@ Welcome to the MathWiz Mindbender Notebook, your ultimate companion for AI Mathe
 1. [Introduction to AI Mathematical Olympiads](docs/introduction.md) 
 2. [Fundamentals of Problem Solving](docs/fundamental_of_problem_solving.md) 
 3. [Advanced Techniques](docs/advanced_techniques.md) 
-4. Practice Problems
+4. [Practice Problems](docs/practice_problems.md) 
 5. Solutions and Explanations
 6. Glossary
 
